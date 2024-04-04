@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|c:\\users\\arred\\onedrive\\escritorio\\lista2blazorapp\\lista2blazorapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|c:\\users\\arred\\onedrive\\escritorio\\lista2blazorapp\\lista2blazorapp\\lista2blazorapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|solutionrelative:lista2blazorapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|c:\\users\\arred\\onedrive\\escritorio\\lista2blazorapp\\lista2blazorapp\\services\\listaenlazadasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|solutionrelative:services\\listaenlazadasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|c:\\users\\arred\\onedrive\\escritorio\\lista2blazorapp\\lista2blazorapp\\models\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|solutionrelative:models\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|c:\\users\\arred\\onedrive\\escritorio\\lista2blazorapp\\lista2blazorapp\\lista2blazorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|solutionrelative:lista2blazorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|c:\\users\\arred\\onedrive\\escritorio\\lista2blazorapp\\lista2blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFAD8B8-3D8E-4058-AD76-BE407163B4A6}|Lista2BlazorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista2BlazorApp",
+              "DocumentMoniker": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Lista2BlazorApp.csproj",
+              "RelativeDocumentMoniker": "Lista2BlazorApp.csproj",
+              "ToolTip": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Lista2BlazorApp.csproj",
+              "RelativeToolTip": "Lista2BlazorApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T19:11:21.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaEnlazadaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Services\\ListaEnlazadaSimple.cs",
+              "RelativeDocumentMoniker": "Services\\ListaEnlazadaSimple.cs",
+              "ToolTip": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Services\\ListaEnlazadaSimple.cs",
+              "RelativeToolTip": "Services\\ListaEnlazadaSimple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:05:19.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAD0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T21:20:25.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Models\\Nodo.cs",
+              "RelativeDocumentMoniker": "Models\\Nodo.cs",
+              "ToolTip": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Models\\Nodo.cs",
+              "RelativeToolTip": "Models\\Nodo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:04:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lista2BlazorApp.csproj",
+              "DocumentMoniker": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Lista2BlazorApp.csproj",
+              "RelativeDocumentMoniker": "Lista2BlazorApp.csproj",
+              "ToolTip": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Lista2BlazorApp.csproj",
+              "RelativeToolTip": "Lista2BlazorApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T19:04:32.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\arred\\OneDrive\\Escritorio\\Lista2BlazorApp\\Lista2BlazorApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:01:11.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
